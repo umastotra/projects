@@ -1,6 +1,6 @@
 const username = 'umastotra';
 const maxPages = 3;
-const hideForks = true;
+const hideForks = false;
 const repoList = document.querySelector('.repo-list');
 const reposSection = document.querySelector('.repos');
 const filterInput = document.querySelector('.filter-repos');
